@@ -1,5 +1,6 @@
 {
-  "name": "best-world",
+  "name": "Project-managment-system",
+  "packageManager": "yarn@4.9.4",
   "version": "1.0.1",
   "description": "TP project\r This project is a student project.",
   "main": "server.js",
@@ -28,10 +29,6 @@
     "socket.io": "^4.1.2",
     "validator": "^13.6.0"
   },
-  "engines": {
-    "node": "^12.x"
-  },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"

@@ -3,4 +3,5 @@ node_modules/
 .jshintrc
 public/
 .idea
-TEST.html
+.vscode
+.yarn
